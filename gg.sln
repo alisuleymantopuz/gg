@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gg.web", "gg.web\gg.web.csproj", "{1FAD4133-5CD1-4866-98FA-8D99D879E471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gg.core", "gg.core\gg.core.csproj", "{91F47C5C-BA7C-41EF-90EB-E52A84EA5A7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FAD4133-5CD1-4866-98FA-8D99D879E471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAD4133-5CD1-4866-98FA-8D99D879E471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAD4133-5CD1-4866-98FA-8D99D879E471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAD4133-5CD1-4866-98FA-8D99D879E471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F47C5C-BA7C-41EF-90EB-E52A84EA5A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F47C5C-BA7C-41EF-90EB-E52A84EA5A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F47C5C-BA7C-41EF-90EB-E52A84EA5A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F47C5C-BA7C-41EF-90EB-E52A84EA5A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD3A1E7-4A86-4E8F-B34C-263D93D2B35C}
+	EndGlobalSection
+EndGlobal
